@@ -44,6 +44,6 @@ Enhanced my knowledge of modern CSS properties and techniques.
 
 ### Clone this repository:
 
-git clone https://github.com/yourusername/doordash-landing-page.git
+git clone [https://github.com/yourusername/doordash-landing-page.git](https://github.com/Suvarchala04/DoorDash-Landing-Page.git)
 
 Open the index.html file in your preferred web browser.
