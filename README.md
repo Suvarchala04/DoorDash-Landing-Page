@@ -37,7 +37,8 @@ Enhanced my knowledge of modern CSS properties and techniques.
 
 ## 📸 Preview
 
-![image](https://github.com/user-attachments/assets/7be0e331-6592-408f-a5bd-a34d93b39b33)
+![image](https://github.com/user-attachments/assets/c7b2879e-e1bf-4550-ae72-d9b5c5872d0d)
+
 
 ## 🔧 Setup Instructions
 
