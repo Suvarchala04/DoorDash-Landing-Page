@@ -1,0 +1,148 @@
+body{
+    margin:0;
+    font-family: "Poppins", sans-serif;
+}
+#brand-icon{
+    height: auto;
+    width: 50px;
+}
+#heading{
+    color: #EB1700;
+    font-size: 1.5rem;
+    margin: 0;
+    font-weight: 700;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* background-color: lavender; */
+}
+.brand{
+    display: flex;
+    align-items: center;
+    width: 30%;
+}
+.signup{
+    width: 30%;
+}
+
+.nav-items{
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav-link{
+    display: flex;
+    align-items: center;
+}
+.dropdown{
+    list-style: none;  
+}
+.nav-link{
+    margin-top: 1.1rem;
+    font-size: 1.15rem;
+    font-weight: 500;
+}
+.dropdown-item{
+    color: #EB1700;
+    font-weight: 500;
+}
+.dropdown-item:hover{
+    background-color: #ffe6e6;
+}
+.signup{
+    display: flex;
+    justify-content:end;
+    align-items: center;
+}
+.signup-item{
+    margin-right: 1rem;
+}
+.signup-btn{
+    border: none;
+    background-color: #EB1700;
+    color: white;
+    font-weight: 600;
+    border-radius: 20px;
+    padding: 0.5rem;
+}
+span{
+    font-weight: 700;
+}
+.main-body{
+    display:flex ;
+    background-color: #EB1700;
+    /* background-color: rgb(202, 6, 6); */
+    /* height: 100vh; */
+}
+.signup-space{
+    width: 40%;
+}
+.img-space{
+    width: 60%;
+}
+.man-img{
+    width: 80%;
+    height: auto;
+    margin-top: 1.5rem;
+}
+.signup-heading{
+    margin-left: 22%;
+    color: white;
+    margin-top: 10%
+}
+#intro{
+    font-size: 1rem;
+    font-weight: 500;
+}
+.signup-box{
+    background-color: white;
+    position: relative;
+    left: 22%;
+    top: 10%;
+    padding: 4.5rem 1rem;
+    margin-top: 0;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+    border-radius: 3%;
+}
+h4{
+    font-weight: 600;
+}
+p{
+    font-size: 0.85rem;
+}
+.span-class{
+    color: #EB1700;
+    text-decoration: solid underline #EB1700;
+    font-weight: 400;
+}
+.signup-buttons{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.start-sign{
+    border: none;
+    padding: 0.7rem;
+    border-radius: 1.875rem;
+    font-weight: 600;
+}
+#sign-btn{
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.about{
+    width: 23%;
+    text-align: center;
+}
+.about .icons{
+    font-size: 2rem;
+    color: #EB1700;
+}
